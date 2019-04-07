@@ -70,7 +70,8 @@
 #badan-kal ul{
     display: block;
     height: 45 px;
-    margin-left: -40px;
+    margin-left: auto;
+    margin-right:auto;
 
    
 }
